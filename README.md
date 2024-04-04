@@ -18,6 +18,10 @@ print("Hello world")
 ### [Images](https:)
 ![Example Image](card-game_8244345.png)
 
+### [Lists](https:)
+- Turn on GitHub Pages
+- Outline my portfolio
+- Introduce myself to the world
 
 ## References 
 ### Github documentation: https://docs.github.com/en
