@@ -10,7 +10,11 @@ This is the repo for TC2005B class
 ## Contents 
 ### [Content 1](https:)
 ### [Content 2](https:)
-### [Content 3](https:)
+### [Code examples](https:)
+```python
+print("Hello world")
+```
+
 ### [Images](https:)
 ![Example Image](card-game_8244345.png)
 
