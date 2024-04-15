@@ -1,5 +1,4 @@
 
-![Example Image](card-game_8244345.png)
 # Git and github laboratory
 # git-lab-
 Git practice laboratory
